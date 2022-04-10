@@ -35,9 +35,7 @@ _efStg="EFSTAGE"
 
 testcaseQuestions=(
 "Testbaar op dev?"
-"Webservice aangepast?" 
-"Sappig?"
-"Sexy"
+"Webservice aangepast?"
 )
 
 for ((i = 0; i < ${#testcaseQuestions[@]}; i++)) do
